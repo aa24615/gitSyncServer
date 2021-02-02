@@ -1,6 +1,9 @@
 # GIT同步推拉
 
 
+> 此项目将不再维护,将移步到获取最新版本 [https://github.com/aa24615/gitTools](https://github.com/aa24615/gitTools)
+
+
  这是一个本地仓库与服务器同步推拉的脚本
 
  随着git的便捷,我们不再使用ftp作为上传工具
